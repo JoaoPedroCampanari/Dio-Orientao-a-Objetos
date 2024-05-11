@@ -1,8 +1,8 @@
-package celular;
+package sistema;
 
-import celular.funcoes.AparelhoTelefonico;
-import celular.funcoes.NavegadorNaInternet;
-import celular.funcoes.RepodutorMusicial;
+import sistema.funcoes.AparelhoTelefonico;
+import sistema.funcoes.NavegadorNaInternet;
+import sistema.funcoes.RepodutorMusicial;
 
 public class Celular implements RepodutorMusicial, AparelhoTelefonico, NavegadorNaInternet {
     @Override

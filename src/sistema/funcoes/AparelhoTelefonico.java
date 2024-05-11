@@ -1,4 +1,4 @@
-package celular.funcoes;
+package sistema.funcoes;
 
 public interface AparelhoTelefonico {
 

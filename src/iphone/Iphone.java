@@ -1,6 +1,6 @@
 package iphone;
 
-import celular.Celular;
+import sistema.Celular;
 
 public class Iphone {
     public static void main(String[] args) {
